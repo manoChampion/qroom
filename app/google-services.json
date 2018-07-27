@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "500153596303",
+    "firebase_url": "https://qroom-a696b.firebaseio.com",
+    "project_id": "qroom-a696b",
+    "storage_bucket": "qroom-a696b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500153596303:android:40fbefc609377f51",
+        "android_client_info": {
+          "package_name": "com.example.luis.qroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500153596303-hlqtla3dht0j094rnmb4s6s02t7hku4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luis.qroom",
+            "certificate_hash": "ea30fd93bb2f2c17066a086ea59c61b35cff14cf"
+          }
+        },
+        {
+          "client_id": "500153596303-unjbueokv5o7f00e0ucsm4886g1tt5i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLt6CjhZ8ePaADxwCUqqFK1K7Gfh79dY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500153596303-unjbueokv5o7f00e0ucsm4886g1tt5i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
